@@ -10,6 +10,6 @@ I am a final-year CS master student at [Beijing Jiaotong University](https://www
 
 My Life Philosophy
 ======
-1. Aim high, propose big questions and give elegant solutions.
-2. I'm not passionate about AGI; I'm passionate about questions.
-3. Greatness lies in the ordinary.
+- Aim high, propose big questions and give elegant solutions.
+- I'm not passionate about AGI; I'm passionate about questions.
+- Greatness lies in the ordinary.
