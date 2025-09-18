@@ -3,6 +3,7 @@ layout: archive
 title: "Experience"
 permalink: /experience/
 author_profile: true
+mathjax: true
 redirect_from:
   - /experience
 ---
