@@ -19,7 +19,8 @@ Education
     <img src="../images/bjtu.jpg" alt="BJTU Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
-    M.S. in Computer Vision, Beijing Jiaotong University, 2023 – Present
+    M.S. in Computer Vision<br>
+    Beijing Jiaotong University, 2023 – Present
   </div>
 </div>
 
@@ -28,7 +29,8 @@ Education
     <img src="../images/bjtu.jpg" alt="BJTU Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
-    B.S. in Computer Science, Beijing Jiaotong University, 2019 – 2023
+    B.S. in Computer Science<br>
+    Beijing Jiaotong University, 2019 – 2023
   </div>
 </div>
 
@@ -46,7 +48,7 @@ Industrial Experiences
     <img src="../images/baidu.jpeg" alt="Baidu Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
-    <strong>Baidu Cloud Yijian</strong><br>
+    <strong><a href="https://yijian.bce.baidu.com" target="_blank">Baidu Cloud Yijian</a></strong><br>
     Jun – Sep 2025, Beijing, China<br>  
     Topic: Multimodal Application
   </div>
@@ -57,7 +59,7 @@ Industrial Experiences
     <img src="../images/nuctech.jpg" alt="Nuctech Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
-    <strong>Nuctech Company Limited</strong><br>
+    <strong><a href="https:www.nuctech.com" target="_blank">Nuctech Company Limited</a></strong><br>
     Nov 2024 – May 2025, Beijing, China<br>  
     Topic: Generative Image Restoration
   </div>
@@ -71,6 +73,7 @@ Skills
   * inference: lmdeploy/vllm
   * deployment: docker
 * English skills: TOEFL(88/120)、CET4(656)、CET6(575)
+* Future skills: Agent/RL...
 
 Publications
 ======
