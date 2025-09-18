@@ -40,7 +40,7 @@ Industrial Experiences
 <!-- * Jun-Sep, 2025: [Baidu Cloud Yijian](https://yijian.bce.baidu.com)
   * Multimodal Application
 
-* Nov,2024 - May,2025: [Nuctech Comany Limited](https:www.nuctech.com)
+* Nov,2024 - May,2025: [Nuctech Comany Limited](https://www.nuctech.com)
   * Generative Image Restoration -->
 
 <div style="display:flex; align-items:center; margin-bottom:1em;">
@@ -59,7 +59,7 @@ Industrial Experiences
     <img src="../images/nuctech.jpg" alt="Nuctech Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
-    <strong><a href="https:www.nuctech.com" target="_blank">Nuctech Company Limited</a></strong><br>
+    <strong><a href="https://www.nuctech.com" target="_blank">Nuctech Company Limited</a></strong><br>
     Nov 2024 – May 2025, Beijing, China<br>  
     Topic: Generative Image Restoration
   </div>
