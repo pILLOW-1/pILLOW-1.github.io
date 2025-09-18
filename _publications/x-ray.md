@@ -1,7 +1,7 @@
 ---
 title: "Taming Generative Synthetic Data for X-ray Prohibited Item Detection"
 collection: publications
-published: false
+status: published
 category: manuscripts
 permalink: /publication/x-ray
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
