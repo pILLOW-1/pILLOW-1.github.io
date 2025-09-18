@@ -2,10 +2,10 @@
 title: "Bridging Past, Present and Future of Incremental Object Detection via General Detector Knowledge Distillation"
 collection: publications
 status: prepare
-category: manuscripts
+category: conferences
 permalink: #/publication/x-ray
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026
+date: 2026-03-01
 venue: 'CVPR'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: #'http://pillow-1.github.io/files/Taming_Generative_Synthetic_Data_for_X_ray_Prohibited_Item_Detection_TMM_main.pdf'
