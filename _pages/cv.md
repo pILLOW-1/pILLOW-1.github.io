@@ -75,11 +75,11 @@ Skills
 * English skills: TOEFL(88/120)、CET4(656)、CET6(575)
 * Future skills: Agent/RL...
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service
 ======

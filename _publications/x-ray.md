@@ -14,5 +14,6 @@ citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal
 ---
 <!-- ![X-ray method illustration](../images/x-ray-method.jpg) -->
 
-<img src="../images/x-ray-method.jpg" alt="X-ray method" style="width:80%; max-width:600px;">
+<img src="/images/x-ray-method.jpg" alt="X-ray method" style="width:80%; max-width:600px;">
+
 
