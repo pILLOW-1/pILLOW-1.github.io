@@ -11,35 +11,68 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * M.S. in Computer Vision, Beijing Jiaotong University, 2023 - Present
+* B.S. in Computer Science, Beijing Jiaotong University, 2019 - 2023 -->
+
+<div style="display:flex; align-items:center; margin-bottom:1em;">
+  <div style="flex:0 0 80px; margin-right:15px;">
+    <img src="bjtu.jpg" alt="BJTU Logo" style="width:80px; border-radius:4px;">
+  </div>
+  <div>
+    **M.S. in Computer Vision**, Beijing Jiaotong University  
+    2023 – Present, Beijing, China
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:1em;">
+  <div style="flex:0 0 80px; margin-right:15px;">
+    <img src="bjtu.jpg" alt="BJTU Logo" style="width:80px; border-radius:4px;">
+  </div>
+  <div>
+    **B.S. in Computer Science**, Beijing Jiaotong University  
+    2019 – 2023, Beijing, China
+  </div>
+</div>
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<!-- * Jun-Sep, 2025: [Baidu Cloud Yijian](https://yijian.bce.baidu.com)
+  * Multimodal Application
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov,2024 - May,2025: [Nuctech Comany Limited](https:www.nuctech.com)
+  * Generative Image Restoration -->
+
+<div style="display:flex; align-items:center; margin-bottom:1em;">
+  <div style="flex:0 0 80px; margin-right:15px;">
+    <img src="baidu.jpeg" alt="Baidu Logo" style="width:80px; border-radius:4px;">
+  </div>
+  <div>
+    **Baidu Cloud Yijian**  
+    Jun – Sep 2025, Beijing, China  
+    Multimodal Application
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:1em;">
+  <div style="flex:0 0 80px; margin-right:15px;">
+    <img src="nuctech.jpg" alt="Nuctech Logo" style="width:80px; border-radius:4px;">
+  </div>
+  <div>
+    **Nuctech Company Limited**  
+    Nov 2024 – May 2025, Beijing, China  
+    Generative Image Restoration
+  </div>
+</div>
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Basic skills: Pytorch/Python
+* Multimodal skills
+  * training: ms-swift/llamafactory
+  * inference: lmdeploy/vllm
+  * deployment: docker
+* English skills: TOEFL(88/120)、CET4(656)、CET6(575)
 
 Publications
 ======
@@ -47,18 +80,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Service
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* AAAI/PRCV Reviewers
