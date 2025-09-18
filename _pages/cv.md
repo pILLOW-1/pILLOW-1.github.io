@@ -16,7 +16,7 @@ Education
 
 <div style="display:flex; align-items:center; margin-bottom:1em;">
   <div style="flex:0 0 80px; margin-right:15px;">
-    <img src="bjtu.jpg" alt="BJTU Logo" style="width:80px; border-radius:4px;">
+    <img src="../images/bjtu.jpg" alt="BJTU Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
     **M.S. in Computer Vision**, Beijing Jiaotong University  
@@ -26,7 +26,7 @@ Education
 
 <div style="display:flex; align-items:center; margin-bottom:1em;">
   <div style="flex:0 0 80px; margin-right:15px;">
-    <img src="bjtu.jpg" alt="BJTU Logo" style="width:80px; border-radius:4px;">
+    <img src="../images/bjtu.jpg" alt="BJTU Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
     **B.S. in Computer Science**, Beijing Jiaotong University  
@@ -45,7 +45,7 @@ Work experience
 
 <div style="display:flex; align-items:center; margin-bottom:1em;">
   <div style="flex:0 0 80px; margin-right:15px;">
-    <img src="baidu.jpeg" alt="Baidu Logo" style="width:80px; border-radius:4px;">
+    <img src="../images/baidu.jpeg" alt="Baidu Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
     **Baidu Cloud Yijian**  
@@ -56,7 +56,7 @@ Work experience
 
 <div style="display:flex; align-items:center; margin-bottom:1em;">
   <div style="flex:0 0 80px; margin-right:15px;">
-    <img src="nuctech.jpg" alt="Nuctech Logo" style="width:80px; border-radius:4px;">
+    <img src="../images/nuctech.jpg" alt="Nuctech Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
     **Nuctech Company Limited**  
