@@ -19,8 +19,7 @@ Education
     <img src="../images/bjtu.jpg" alt="BJTU Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
-    **M.S. in Computer Vision**, Beijing Jiaotong University  
-    2023 – Present, Beijing, China
+    M.S. in Computer Vision, Beijing Jiaotong University, 2023 – Present
   </div>
 </div>
 
@@ -29,12 +28,11 @@ Education
     <img src="../images/bjtu.jpg" alt="BJTU Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
-    **B.S. in Computer Science**, Beijing Jiaotong University  
-    2019 – 2023, Beijing, China
+    B.S. in Computer Science, Beijing Jiaotong University, 2019 – 2023
   </div>
 </div>
 
-Work experience
+Industrial Experiences
 ======
 
 <!-- * Jun-Sep, 2025: [Baidu Cloud Yijian](https://yijian.bce.baidu.com)
@@ -48,9 +46,9 @@ Work experience
     <img src="../images/baidu.jpeg" alt="Baidu Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
-    **Baidu Cloud Yijian**  
-    Jun – Sep 2025, Beijing, China  
-    Multimodal Application
+    <strong>Baidu Cloud Yijian</strong><br>
+    Jun – Sep 2025, Beijing, China<br>  
+    Topic: Multimodal Application
   </div>
 </div>
 
@@ -59,9 +57,9 @@ Work experience
     <img src="../images/nuctech.jpg" alt="Nuctech Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
-    **Nuctech Company Limited**  
-    Nov 2024 – May 2025, Beijing, China  
-    Generative Image Restoration
+    <strong>Nuctech Company Limited</strong><br>
+    Nov 2024 – May 2025, Beijing, China<br>  
+    Topic: Generative Image Restoration
   </div>
 </div>
   
