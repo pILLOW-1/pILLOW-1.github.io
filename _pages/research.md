@@ -10,7 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-Research
-======
-
 ![roadmap](../images/roadmap.png)

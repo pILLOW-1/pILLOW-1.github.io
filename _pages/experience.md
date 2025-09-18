@@ -12,7 +12,7 @@ redirect_from:
 
 Multimodal Intelligence
 ======
-I spent a wonderful summer (Jun-Sep, 2025) at [Baidu Cloud Yijian Group]((https://yijian.bce.baidu.com)) and learnt a lot about multimodal intelligence. Specifically, I know how to apply general multimodal models to a specific domain. At the same time, I am thinking about how to let multimodal models themselves automatically optimize prompts to maximize their performance under zero-shot/SFT/RL settings.
+I spent a wonderful summer (Jun-Sep, 2025) at [Baidu Cloud Yijian Group](https://yijian.bce.baidu.com) and learnt a lot about multimodal intelligence. Specifically, I know how to apply general multimodal models to a specific domain. At the same time, I am thinking about how to let multimodal models themselves automatically optimize prompts to maximize their performance under zero-shot/SFT/RL settings.
 
 **Application**
 
