@@ -48,7 +48,7 @@ Industrial Experiences
     <img src="../images/baidu.jpeg" alt="Baidu Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
-    <strong><a href="https://yijian.bce.baidu.com" style="text-decoration:none; color:inherit;" target="_blank">Baidu Cloud Yijian</a></strong><br>
+    <strong><a href="https://yijian.bce.baidu.com" style="text-decoration:none" target="_blank">Baidu Cloud Yijian</a></strong><br>
     Jun – Sep 2025, Beijing, China<br>  
     Topic: Multimodal Application
   </div>
@@ -59,7 +59,7 @@ Industrial Experiences
     <img src="../images/nuctech.jpg" alt="Nuctech Logo" style="width:80px; border-radius:4px;">
   </div>
   <div>
-    <strong><a href="https://www.nuctech.com" style="text-decoration:none; color:inherit;" target="_blank">Nuctech Company Limited</a></strong><br>
+    <strong><a href="https://www.nuctech.com" style="text-decoration:none" target="_blank">Nuctech Company Limited</a></strong><br>
     Nov 2024 – May 2025, Beijing, China<br>  
     Topic: Generative Image Restoration
   </div>
