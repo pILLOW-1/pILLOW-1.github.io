@@ -11,6 +11,6 @@ redirect_from:
 
 Generative Intelligence for X-ray
 ======
-We propose a three-stage training pipeline for realistic X-ray security image generation on five common X-ray devvices, including PIDray, HiXray, OPIXray, CLCXray and PIXray.
+We propose a three-stage training pipeline for realistic X-ray security image generation on five common X-ray devices, including PIDray, HiXray, OPIXray, CLCXray and PIXray. Here is the framework:
 
 ![X-ray intelligence](../images/x-ray-gen.jpg)
