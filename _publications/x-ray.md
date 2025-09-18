@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/x-ray
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: #2009-10-01
-venue: #'Journal 1'
+date: 2025-09-18
+venue: 'IEEE Transactions on Multimedia'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://pillow-1.github.io/files/Taming_Generative_Synthetic_Data_for_X_ray_Prohibited_Item_Detection_TMM_main.pdf'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
