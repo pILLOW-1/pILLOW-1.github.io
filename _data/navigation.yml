@@ -33,7 +33,7 @@ main:
     url: /experience/
         
   - title: "Blogs"
-    url: /year-archive/
+    url: /blogs/
     
   # - title: "CV"
   #   url: /cv-json/
